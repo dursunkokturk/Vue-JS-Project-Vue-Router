@@ -1,0 +1,11 @@
+Ilk olarak terminalde 
+npm run server komutu ile projenin front-end tarafi Calistirilacak
+
+Farkli bir terminalde asagidaki kodlar kullanilarak 
+projenin back-end tarafi icin kurulum ve calistirma yapilacak
+Axios Kurulum 
+npm install axios
+
+Axios Calistirma
+script elementleri icinde asagidaki kod satiri yazilacak
+import Axios from 'axios'; 

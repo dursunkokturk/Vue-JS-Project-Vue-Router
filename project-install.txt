@@ -1,0 +1,36 @@
+npm create vue@latest
+
+need to install the following packages
+y
+
+project name 
+routing
+
+add typescript
+no
+
+add jsx support
+no
+
+add vue router for single page application development
+yes
+
+add pinia for state management
+no
+
+add vitest for unit testing
+no
+
+add an end-to-end testing solution
+no
+
+add eslint for code quality
+no
+
+add vue devtools 7 extension for debugging
+no
+
+proje kurulumundan sonra node-module klasorunun gelmesi icin
+cd routing
+npm install
+npm run dev

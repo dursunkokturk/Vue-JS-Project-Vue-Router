@@ -1,0 +1,10 @@
+Ilk olarak terminalde 
+npm run server komutu ile projenin front-end tarafi Calistirilacak
+
+Farkli bir terminalde asagidaki kodlar kullanilarak 
+projenin back-end tarafi icin kurulum ve calistirma yapilacak
+JSON-SERVER Kurulum 
+npm install json-server
+
+JSON-SERVER Calistirma
+npx json-server db.json

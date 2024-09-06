@@ -1,0 +1,3 @@
+yazilari id bilgisine gore f12 ekraninda gormek icin
+proje klasoru icinde 
+json-server --watch db.json --routes routes.json
